@@ -1,6 +1,6 @@
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="70%"/><br> 
 <h1 align="center">Hi 👋, I'm Kartik Batchu</h1>
 <h3 align="center">An AI/ML and Data Science Enthusiast</h3>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik192019&label=Profile%20views&color=0e75b6&style=flat" alt="kartik192019" /> </p>
 
 - 🔭 I’m currently working on **AWS services , Generative AI**
