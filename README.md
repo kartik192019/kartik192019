@@ -24,24 +24,24 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://www.crewai.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="crewai" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging face" width="40" height="40"/> </a>
-<a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://keras.io/img/logo.png" alt="keras" width="40" height="40"/> </a>
-<a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="nltk" width="40" height="40"/> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a>
-<a href="https://cloud.google.com/vertex-ai" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/cloud/images/navigation/vertex-ai.svg" alt="Google Jules AI" width="40" height="40"/> </a>
-<a href="https://beautiful-soup-4.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" alt="Beautiful Soup" width="40" height="40"/> </a>
-<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/> </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" width="40" height="40"/> </a>
-<a href="https://catboost.ai/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catboost" width="40" height="40"/> </a>
-</p>
+<div align="left"> 
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+<img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="crewai" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging face" width="40" height="40"/>
+<img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<img src="https://keras.io/img/logo.png" alt="keras" width="40" height="40"/>
+<img src="https://miro.medium.com/max/592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="nltk" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
+<img src="https://www.gstatic.com/cloud/images/navigation/vertex-ai.svg" alt="Google Jules AI" width="40" height="40"/>
+<img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" alt="Beautiful Soup" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/>
+<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catboost" width="40" height="40"/>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartik192019&show_icons=true&locale=en&layout=compact" alt="kartik192019" /></p>
 
