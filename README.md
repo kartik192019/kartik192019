@@ -42,8 +42,6 @@
 <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/>
 <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catboost" width="40" height="40"/>
-<img src="https://www.lovable.dev/images/logo-icon.svg" alt="lovable" width="40" height="40"/>
-<img src="https://cursor.sh/brand/logo.svg" alt="cursor" width="40" height="40"/>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartik192019&show_icons=true&locale=en&layout=compact" alt="kartik192019" /></p>
