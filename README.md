@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Kartik Batchu</h1>
 
 <div align="center">
@@ -19,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kartik-batchu-5084a1223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartik-batchu-5084a1223/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/kartikbatchu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kartikbatchu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kartik-batchu-5084a1223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kartik Batchu LinkedIn" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/kartikbatchu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kartik Batchu Kaggle" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,8 +40,10 @@
 <img src="https://www.gstatic.com/cloud/images/navigation/vertex-ai.svg" alt="Google Jules AI" width="40" height="40"/>
 <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" alt="Beautiful Soup" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/>
-<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" width="40" height="40"/>
+<img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catboost" width="40" height="40"/>
+<img src="https://www.lovable.dev/images/logo-icon.svg" alt="lovable" width="40" height="40"/>
+<img src="https://cursor.sh/brand/logo.svg" alt="cursor" width="40" height="40"/>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartik192019&show_icons=true&locale=en&layout=compact" alt="kartik192019" /></p>
